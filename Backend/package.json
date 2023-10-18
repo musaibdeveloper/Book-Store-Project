@@ -1,0 +1,26 @@
+{
+  "name": "book-store-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musaibdeveloper/Book-Store-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musaibdeveloper/Book-Store-Project/issues"
+  },
+  "homepage": "https://github.com/musaibdeveloper/Book-Store-Project#readme",
+  "dependencies": {
+    "config": "^3.3.9",
+    "moongose": "^1.0.0",
+    "nodemon": "^3.0.1"
+  }
+}
